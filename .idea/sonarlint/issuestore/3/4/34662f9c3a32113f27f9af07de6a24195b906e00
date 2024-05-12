@@ -1,0 +1,22 @@
+
+™
+java:S1104"VMake firstArray a static final constant or non-public and provide accessors if needed.(Ý¶´‰8×Ã®ëõ1J$7ef7eca8-7997-4b4c-9763-438c2918056a
+š
+java:S1104	"WMake secondArray a static final constant or non-public and provide accessors if needed.(•íð¿8×Ã®ëõ1J$2327ab9a-3e63-4e36-87ba-461e2e32d581
+š
+java:S1104
+"WMake resultArray a static final constant or non-public and provide accessors if needed.(”ÐÄñ8×Ã®ëõ1J$5b903c4c-5350-4d49-a4a1-de7c392cdfc1
+s
+java:S1444"0Make this "public static firstArray" field final(Ý¶´‰8×Ã®ëõ1J$4e7dc705-a5a7-4712-bf34-12e2de9cf0e8
+t
+java:S1444	"1Make this "public static secondArray" field final(•íð¿8×Ã®ëõ1J$e7c9972a-da97-4bff-b000-a015c74c708a
+t
+java:S1444
+"1Make this "public static resultArray" field final(”ÐÄñ8×Ã®ëõ1J$ede54f8e-cb1c-4a6c-a8b0-f239e69f81e3
+`
+java:S2386"Make this member "protected".(Ý¶´‰8×Ã®ëõ1J$9795fb6d-093d-4af9-8b2f-ca99675d949d
+`
+java:S2386	"Make this member "protected".(•íð¿8×Ã®ëõ1J$508d4cc6-2063-4f40-9887-ae78ca4e4c2b
+n
+java:S2386"&Make member "resultArray" "protected".(ŒŽ¤ßúÿÿÿÿ8çÃ®ëõ1J$bb0328bd-b114-4c9a-a3dc-0203cc1bd268
+r	java:S106"+Replace this use of System.out by a logger.(¶»½Ðþÿÿÿÿ8çÃ®ëõ1J$23a6035a-d92e-4572-8ee6-4fe34657bdc0

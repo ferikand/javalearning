@@ -1,0 +1,11 @@
+
+˜
+java:S1104"PMake city a static final constant or non-public and provide accessors if needed.(¼™·ıüÿÿÿÿ8óÿáö1J$ff11c382-c7d2-4193-83e1-1f61fc3b26c9
+
+java:S1104	"VMake population a static final constant or non-public and provide accessors if needed.(Õ™¼øÿÿÿÿ8óÿáö1J$48898e2d-1bb2-4ff3-938c-65e6981e0227
+r
+java:S1444"*Make this "public static city" field final(¼™·ıüÿÿÿÿ8óÿáö1J$a675d040-be6a-4db0-87dc-595069847e55
+x
+java:S1444	"0Make this "public static population" field final(Õ™¼øÿÿÿÿ8óÿáö1J$86104744-aaa6-43c5-bcdc-88d9e346e8e2
+r	java:S106"+Replace this use of System.out by a logger.(£Á•Òûÿÿÿÿ8óÿáö1J$62c813bf-361a-4de8-a6a6-0c9f74784c8a
+m	java:S106"+Replace this use of System.out by a logger.(å—©ë8óÿáö1J$468c58a9-109c-4146-b3da-a740ef5ecc2a

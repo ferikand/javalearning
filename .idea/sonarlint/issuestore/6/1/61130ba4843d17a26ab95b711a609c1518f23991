@@ -1,0 +1,11 @@
+
+™
+java:S1104
+"VMake multiArray a static final constant or non-public and provide accessors if needed.(¦Û¬›8±ä¤³ö1J$a0d169e7-7f3e-4ca1-a747-d57fe2c0d01d
+s
+java:S1444
+"0Make this "public static multiArray" field final(¦Û¬›8±ä¤³ö1J$b2c30046-7ce9-4baa-8b94-b3da386a543e
+g
+java:S2386"%Make member "multiArray" "protected".(ß¥›!8Ðä¤³ö1J$b82703cb-277d-4475-8cf7-8c52fe6ab23e
+l	java:S106"+Replace this use of System.out by a logger.(Ó¥ 8Ðä¤³ö1J$48e1786d-4a2e-4141-b4cb-1ea85434f20c
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Ðä¤³ö1J$7086b3ee-e4b9-4f75-9f16-a3a3d854ca7b

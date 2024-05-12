@@ -1,0 +1,14 @@
+
+“
+java:S1104"QMake array a static final constant or non-public and provide accessors if needed.(´£›O8—¼”Âö1J$63b71645-e430-4ae8-b69d-285728034acc
+›
+java:S1104"SMake element a static final constant or non-public and provide accessors if needed.(ÕûšÀûÿÿÿÿ8—¼”Âö1J$cdf11247-e531-4d89-8336-6eaacfb1550e
+m
+java:S1444"+Make this "public static array" field final(´£›O8—¼”Âö1J$060cdea4-b619-471b-af1d-9eaa8b0fd795
+u
+java:S1444"-Make this "public static element" field final(ÕûšÀûÿÿÿÿ8—¼”Âö1J$2308e69d-07e7-4f84-ad18-c5325d44de07
+_
+java:S2386"Make this member "protected".(´£›O8—¼”Âö1J$1c5f833c-5d1c-4f2c-a25d-391554ab16c0
+m	java:S106"+Replace this use of System.out by a logger.(•Îîé8¨¼”Âö1J$caac6fbf-d4d7-4bf1-935c-b43ec29094dd
+k
+java:S1125"(Remove the unnecessary boolean literals.(•Îîé8¨¼”Âö1J$7660fa6c-fc08-4ad0-b488-a0444d32fb47

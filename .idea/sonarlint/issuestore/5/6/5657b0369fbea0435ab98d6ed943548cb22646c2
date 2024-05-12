@@ -1,0 +1,14 @@
+
+
+java:S1104"VMake arrayFirst a static final constant or non-public and provide accessors if needed.(ß£ÿÊûÿÿÿÿ8ßÆ²¶ö1J$63ef800a-1f0e-4bdc-941c-8fb51ecafecd
+š
+java:S1104"WMake arraySecond a static final constant or non-public and provide accessors if needed.(”Šò­8ßÆ²¶ö1J$287412c8-9d1c-42b5-8af5-d3d7a782f46d
+x
+java:S1444"0Make this "public static arrayFirst" field final(ß£ÿÊûÿÿÿÿ8ßÆ²¶ö1J$a22b607c-e446-4146-95c4-59e53a7c8c1e
+t
+java:S1444"1Make this "public static arraySecond" field final(”Šò­8ßÆ²¶ö1J$2baef022-f229-4848-92f6-2e7aae879730
+e
+java:S2386"Make this member "protected".(ß£ÿÊûÿÿÿÿ8ïÆ²¶ö1J$7c30a607-e951-4ef2-96b0-bdae24f867e2
+`
+java:S2386"Make this member "protected".(”Šò­8ïÆ²¶ö1J$20a8b79a-2438-4736-815c-38144c33cdb3
+m	java:S106"+Replace this use of System.out by a logger.(ú•Ïå8ïÆ²¶ö1J$b819afe8-eb67-4153-aec1-7b1d1f9a7241

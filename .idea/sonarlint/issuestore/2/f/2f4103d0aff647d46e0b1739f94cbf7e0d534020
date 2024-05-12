@@ -1,0 +1,6 @@
+
+
+java:S1104	"RMake result a static final constant or non-public and provide accessors if needed.(Æ‹ÚSJ$f87c0a85-dba9-4408-98bb-6f8b3eabbcf3
+g
+java:S1444	",Make this "public static result" field final(Æ‹ÚSJ$b98cc120-b3fa-4957-937f-7015dcacb1da
+f	java:S106"+Replace this use of System.out by a logger.(¢œÕ­J$2a7843f9-9351-4b99-aaa5-4975bdfe0f13

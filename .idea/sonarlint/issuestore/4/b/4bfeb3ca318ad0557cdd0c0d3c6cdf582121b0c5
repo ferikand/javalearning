@@ -1,0 +1,7 @@
+
+„
+java:S4973"<Strings and Boxed types should be compared using "equals()".(τ»¦άψÿÿÿÿ8όΖάφ1J$196e1e65-2b44-4cc3-b0ad-fafc8099b51f
+Δ
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ηµν‘8Ηάφ1J$4e6103ad-f679-4770-b904-385e5e5b02c9
+r	java:S106"+Replace this use of System.out by a logger.(α«ηΏϊÿÿÿÿ8Ηάφ1J$abf7b385-a1ed-4c42-8663-9ab94242c037
+r	java:S106"+Replace this use of System.out by a logger.(Ιψÿÿÿÿ8Ηάφ1J$c28785bf-47f8-462b-aa2c-3adccc8b79c1

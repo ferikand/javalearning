@@ -1,0 +1,9 @@
+
+š
+java:S1104	"RMake result a static final constant or non-public and provide accessors if needed.(°Ø¦Æùÿÿÿÿ8ôšè¤ö1J$62160d4f-ecc3-4586-93e1-8bf5c981b2cb
+t
+java:S1444	",Make this "public static result" field final(°Ø¦Æùÿÿÿÿ8ôšè¤ö1J$1123a418-9234-433b-a6d7-96f1cdc1d70c
+e
+java:S2386	"Make this member "protected".(°Ø¦Æùÿÿÿÿ8ôšè¤ö1J$f44fae69-25f8-42b8-89bc-61bed3aa2403
+r	java:S106"+Replace this use of System.out by a logger.(º¢ñ½ýÿÿÿÿ8„›è¤ö1J$457b055c-66da-4e4b-bfa0-6e8ad089ff45
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8„›è¤ö1J$0e4b07f8-24c6-45c2-907d-f8dd9946360e

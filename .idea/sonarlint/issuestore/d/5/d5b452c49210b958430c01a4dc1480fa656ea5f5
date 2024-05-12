@@ -1,0 +1,12 @@
+
+™
+java:S1104
+"QMake array a static final constant or non-public and provide accessors if needed.(ëÉûÛÿÿÿÿÿ8ßÍÏùõ1J$448a059d-f464-4699-969a-eb2e7df2d721
+s
+java:S1444
+"+Make this "public static array" field final(ëÉûÛÿÿÿÿÿ8ßÍÏùõ1J$6b9877da-8c0a-4a13-8137-90975f3b5f7c
+´
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8ïÍÏùõ1J$2e287d2d-9f2b-4e5f-954f-87882daeddbc
+h
+java:S2386" Make member "array" "protected".(Óä·›øÿÿÿÿ8ïÍÏùõ1J$de34dfea-1fc6-4c92-a581-f5b47fdf4f81
+m	java:S106"+Replace this use of System.out by a logger.(Å¶áç8¨üĞùõ1J$c2b2e718-6de3-4bbc-bd7b-addf73597035
