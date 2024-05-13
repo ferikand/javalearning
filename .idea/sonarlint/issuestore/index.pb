@@ -433,3 +433,5 @@ d
 4src/ua/javarush/task/pro/task07/task0715/Entity.java,c\d\cdd1d34f147c37c9967d323abab9223dc7d4a6d9
 k
 ;src/ua/javarush/task/pro/task07/task0715/JavaDeveloper.java,b\6\b6ac961942fe2d56a12ce84f853ca89cd704f191
+f
+6src/ua/javarush/task/pro/task08/task0801/Solution.java,f\3\f3c27d0c9c06d47069df4d210f911aace9448bb6
