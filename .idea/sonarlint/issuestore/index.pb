@@ -435,3 +435,5 @@ k
 ;src/ua/javarush/task/pro/task07/task0715/JavaDeveloper.java,b\6\b6ac961942fe2d56a12ce84f853ca89cd704f191
 f
 6src/ua/javarush/task/pro/task08/task0801/Solution.java,f\3\f3c27d0c9c06d47069df4d210f911aace9448bb6
+f
+6src/ua/javarush/task/pro/task08/task0802/Solution.java,6\4\642649294e2277174c22b8ba9befd7fb5c2a031c
