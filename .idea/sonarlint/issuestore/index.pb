@@ -439,3 +439,9 @@ f
 6src/ua/javarush/task/pro/task08/task0802/Solution.java,6\4\642649294e2277174c22b8ba9befd7fb5c2a031c
 f
 6src/ua/javarush/task/pro/task08/task0803/Solution.java,9\e\9efa3f5d236eeebb46a1accf210781d670af15fc
+f
+6src/ua/javarush/task/pro/task08/task0804/Solution.java,1\a\1a1d5f4b3e09cd1ecaf6a507accd6a94bb2b864f
+f
+6src/ua/javarush/task/pro/task08/task0805/Solution.java,b\8\b8fea60be344fa6496bf9a4cd45726b8b3ccc841
+g
+7src/ua/javarush/task/pro/task08/task0805/MagicBall.java,5\7\57ddbbb122611ffd38629e1a906e6450807af39a
