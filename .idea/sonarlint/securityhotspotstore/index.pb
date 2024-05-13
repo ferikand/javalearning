@@ -449,3 +449,5 @@ f
 6src/ua/javarush/task/pro/task08/task0806/Solution.java,8\2\827a9a01ee99e7373e93e780b5b52b37960a6bc4
 f
 6src/ua/javarush/task/pro/task08/task0807/Solution.java,1\d\1d0ed55ad5b7a3f6eb75648e2740e9b2e68b4027
+f
+6src/ua/javarush/task/pro/task08/task0808/Solution.java,a\8\a8e62654eda61eca9f864ab6de7ec70c3e22587c
