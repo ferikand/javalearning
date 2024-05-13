@@ -427,3 +427,9 @@ w
 G.idea/sonarlint/issuestore/e/a/eafede41021cf89c71564c16b3a921a186e10265,d\4\d4f91304193f77f277cf24e6732103e1ed0993aa
 Å
 Q.idea/sonarlint/securityhotspotstore/4/3/436cb83c767f62a01225fd1622da075dc8112256,a\9\a931f7d2faa128e46794d55b9266f560aa87a390
+c
+3src/ua/javarush/task/pro/task07/task0715/Human.java,c\6\c6a3042cbd0305041d6dbbc83449b57490b38c55
+d
+4src/ua/javarush/task/pro/task07/task0715/Entity.java,c\d\cdd1d34f147c37c9967d323abab9223dc7d4a6d9
+k
+;src/ua/javarush/task/pro/task07/task0715/JavaDeveloper.java,b\6\b6ac961942fe2d56a12ce84f853ca89cd704f191
