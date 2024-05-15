@@ -16,7 +16,7 @@ public class Solution {
 
     public static String toBinary(int decimalNumber) {
         //напишіть тут ваш код
-        if (decimalNumber <= 0) return "";
+        //if (decimalNumber <= 0) return "";
         StringBuilder binary = new StringBuilder();
         while (decimalNumber != 0) {
             binary.insert(0, decimalNumber % 2);
