@@ -493,3 +493,9 @@ f
 6src/ua/javarush/task/pro/task09/task0910/Solution.java,5\a\5a4b0d69753a32712dfad937bf0b813dffe19750
 f
 6src/ua/javarush/task/pro/task09/task0911/Solution.java,b\8\b85a607ef42e989af0e3f05eb1803a4788659b42
+f
+6src/ua/javarush/task/pro/task09/task0912/Solution.java,7\0\70fb442a9b37ce9952b10c74f5a1f988333ad870
+f
+6src/ua/javarush/task/pro/task09/task0913/Solution.java,b\0\b0425e788ab071f34ecdcfa22f8a82abe5b75ed7
+f
+6src/ua/javarush/task/pro/task09/task0914/Solution.java,d\2\d25f2f64e4b6f42b8d645d357de5e407f8703e85
