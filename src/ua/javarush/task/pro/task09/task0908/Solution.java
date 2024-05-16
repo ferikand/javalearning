@@ -52,7 +52,7 @@ public class Solution {
 
     public static String toBinary(String hexNumber) {
         //напишіть тут ваш код
-        if (hexNumber == null || hexNumber.isEmpty() || !hexNumber.matches("[0-9a-f]+")) {
+        if (hexNumber == null || !hexNumber.matches("[0-9a-f]+") || hexNumber.isEmpty()) {
             return "";
         }
         return toBinaryFromDec(toDecimalFromHex(hexNumber));
